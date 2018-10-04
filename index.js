@@ -8,7 +8,7 @@ function printBadges(names) {
 
 function tailsNeverFails() {
   function flipCoin() {
-    return Math.random >=.5 ? "Tails" : "Heads"
+    return Math.random() >=.5 ? "Tails" : "Heads"
   }
 
   let counter = 0
